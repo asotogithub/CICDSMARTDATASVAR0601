@@ -1,0 +1,2 @@
+# CICDSMARTDATASVAR0601
+para smart data
